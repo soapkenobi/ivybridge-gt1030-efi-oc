@@ -18,3 +18,22 @@
 ### To fix blur
 - Go into Settings - Non-metal settings
 - Turn on Beta Blur
+
+# Tools used:
+1. ProperTree. https://github.com/corpnewt/ProperTree 
+2. GenSMBIOS. https://github.com/corpnewt/GenSMBIOS
+3. Pike's ssdtPRGen.sh. Used for generating SSDT-PM (CPU Power Management SSDT)
+#What works:
+- Ethernet
+- Accelerated Graphics(with GT 1030)
+- macOS Monterey
+- WiFi(kexts required)
+- sleep/hibernate
+
+# Credits:
+
+Thanks for [Apple](https://www.apple.com/ "Apple") For MacOS<br/>
+Thanks for [Acidantera](https://github.com/acidanthera "Acidantera") for OpenCore<br/>
+Thanks for [Dortania](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania") for the Guide<br/>
+Thanks for [Mieze](https://github.com/Mieze "Mieze") for providing RTL8100 Driver<br/>
+Thanks for [Sniki](https://github.com/Sniki "Sniki") and [RehabMan](https://github.com/RehabMan "RehabMan") for USBInjectAll.kext<br/>
