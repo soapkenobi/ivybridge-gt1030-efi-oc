@@ -27,7 +27,8 @@
 1. ProperTree. https://github.com/corpnewt/ProperTree 
 2. GenSMBIOS. https://github.com/corpnewt/GenSMBIOS
 3. Pike's ssdtPRGen.sh. Used for generating SSDT-PM (CPU Power Management SSDT)
-#What works:
+
+# What works:
 - Ethernet
 - Accelerated Graphics(with GT 1030)
 - macOS Monterey
