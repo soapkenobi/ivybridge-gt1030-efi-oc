@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80191638/227436579-681b90ba-4cdb-4f13-8cb1-4f32e6fe07a4.png" />
+</p>
+
 # Important
 ## Edits needed before booting:
 ### SMBIOS:
