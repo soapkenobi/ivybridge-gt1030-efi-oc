@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80191638/227436579-681b90ba-4cdb-4f13-8cb1-4f32e6fe07a4.png" />
 </p>
+<p align="center">
+OpenCore EFI for Ivy Bridge processors paired with a pascal GPU
+</p>
+
+##### tested on macOS Big Sur, Monterey and Ventura
 
 # Important
 ## Edits needed before booting:
