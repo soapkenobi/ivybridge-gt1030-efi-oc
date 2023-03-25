@@ -43,7 +43,7 @@ OpenCore EFI for Ivy Bridge processors paired with a pascal GPU
 # Credits:
 
 Thanks for [Apple](https://www.apple.com/ "Apple") For MacOS<br/>
-Thanks for [Acidantera](https://github.com/acidanthera "Acidantera") for OpenCore<br/>
+Thanks for [Acidantera](https://github.com/acidanthera "Acidantera") for OpenCore, OCLP and CryptexFix<br/>
 Thanks for [Dortania](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania") for the Guide<br/>
 Thanks for [Mieze](https://github.com/Mieze "Mieze") for providing RTL8100 Driver<br/>
 Thanks for [Sniki](https://github.com/Sniki "Sniki") and [RehabMan](https://github.com/RehabMan "RehabMan") for USBInjectAll.kext<br/>
