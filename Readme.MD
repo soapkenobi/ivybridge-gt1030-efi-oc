@@ -6,7 +6,7 @@ OpenCore EFI for Ivy Bridge processors paired with a pascal GPU
 </p>
 
 ##### tested on macOS Big Sur, Monterey and Ventura
-
+### UPDATES FOR THIS REPOSITORY HAVE BEEN PAUSED FOR A WHILE
 # Important
 ## Edits needed before booting:
 ### SMBIOS:
